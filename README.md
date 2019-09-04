@@ -6,4 +6,4 @@ Github Profile:
 
 - [Santhosh Kumar Bollena](https://github.com/santhoshkumarbollena)
 - [Manideep Chamala](https://github.com/manideepchamala)
-- [sumanth grantla](https://github.com/gorantla96)
+- [sumanth gorantla](https://github.com/gorantla96)
